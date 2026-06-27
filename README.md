@@ -23,3 +23,4 @@ I tried to focus on what The Gaming Room actually wanted instead of designing th
 ## My Approach to Software Design
 
 My approach was to first understand the client's requirements and then compare different technologies that could meet those requirements. I looked at the advantages and disadvantages of different operating systems and considered things like scalability, security, storage, and performance before making recommendations. In the future, I would continue using this process by gathering requirements first, creating a design before coding, and thinking about future growth so the software can continue to meet the user's needs as it expands.
+Thank you for reviewing my portfolio.
